@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUY</title>
+
+    <style>
+        body {
+            color: aliceblue;
+            background-color: rgb(44, 40, 40);
+            margin-left: 1cm;
+            margin-right: 1cm;
+            margin-top: 0.4cm;
+            margin-bottom: 0.4cm;
+
+        }
+
+        #PC {
+            margin-left: 2cm;
+            color: aliceblue;
+            background-color: brown;
+        }
+
+        #PCC {
+            margin-left: 0.9cm;
+            color: aliceblue;
+            background-color: brown;
+        }
+
+        #name {
+            color: aliceblue;
+            background-color: brown;
+            margin-left: 1.6cm;
+        }
+
+        #phone {
+            color: aliceblue;
+            background-color: brown;
+        }
+
+        #city {
+            color: aliceblue;
+            background-color: brown;
+            margin-left: 1.9cm;
+        }
+
+        #send {
+            margin-top: 0.3cm;
+            margin-left: 5.8cm; 
+            color: brown;
+            background-color: darkgray;
+            font-size: larger;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <hr>
+
+    <form action="https://formsubmit.co/buyingposters@gmail.com" method="POST">
+        <input type="hidden" name="_captcha" value="false">
+        <p><i>Name:</i><input id="name" type="text" name="name" placeholder="Name" required><br><br></p>
+        <p><i>Phone Number:</i><input id="phone" type="number" name="Phone Number:" placeholder="Phone Number" required><br><br></p>
+        <label for="Wilaya"><i>City :</i></label>
+        <select id="city" name="Wilaya" required>
+            <option value="">00</option>
+            <option value="01">01</option>
+            <option value="02">02</option>
+            <option value="03">03</option>
+            <option value="04">04</option>
+            <option value="05">05</option>
+            <option value="06">06</option>
+            <option value="07">07</option>
+            <option value="08">08</option>
+            <option value="09">09</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+            <option value="32">32</option>
+            <option value="33">33</option>
+            <option value="34">34</option>
+            <option value="35">35</option>
+            <option value="36">36</option>
+            <option value="37">37</option>
+            <option value="38">38</option>
+            <option value="39">39</option>
+            <option value="40">40</option>
+            <option value="41">41</option>
+            <option value="42">42</option>
+            <option value="43">43</option>
+            <option value="44">44</option>
+            <option value="45">45</option>
+            <option value="46">46</option>
+            <option value="47">47</option>
+            <option value="48">48</option>
+            <option value="49">49</option>
+            <option value="50">50</option>
+            <option value="51">51</option>
+            <option value="52">52</option>
+            <option value="53">53</option>
+            <option value="54">54</option>
+            <option value="55">55</option>
+            <option value="56">56</option>
+            <option value="57">57</option>
+            <option value="58">58</option>
+        </select>
+        <input id="adress" type="text" name="Adress" placeholder="Adress :">
+        <br>
+        <br>
+        <br>
+        <label for="PC type"><i>PC :</i></label>
+        <select id="PC" name="PC" required onchange="updatePrice()">
+            <option value="">Which PC ?</option>
+            <option value="LOW 1">LOW 1</option>
+            <option value="LOW 2">LOW 2</option>
+            <option value="LOW 3">LOW 3</option>
+            <option value="MID 1">MID 1</option>
+            <option value="MID 2">MID 2</option>
+            <option value="MID 3">MID 3</option>
+            <option value="HIGH 1">HIGH 1</option>
+            <option value="HIGH 2">HIGH 2</option>
+            <option value="HIGH 3">HIGH 3</option>
+        </select>
+
+        <script>
+            function updatePrice() {
+                // Get the selected value from the dropdown
+                var selectedPC = document.getElementById("PC").value;
+
+                // Define the prices for each option
+                var prices = {
+                    "LOW 1": 299.99 ,
+                    "LOW 2": 389.99 ,
+                    "LOW 3": 449.99 ,
+                    "MID 1": 539.99 ,
+                    "MID 2": 659.99 ,
+                    "MID 3": 679.99 ,
+                    "HIGH 1": 739.99 ,
+                    "HIGH 2": 829.99 ,
+                    "HIGH 3": 1099.99 ,
+                };
+
+                // Update the price display
+                var priceDisplay = document.getElementById("price");
+                if (prices[selectedPC] !== undefined) {
+                    priceDisplay.textContent =  "Price: " + prices[selectedPC] + " $" ;
+                } else {
+                    priceDisplay.textContent = "Price: 0 $";
+                }
+            }
+        </script>
+
+        <br>
+        <br>
+        <br>
+        <label for="Color"><i>PC Color :</i></label>
+        <select id="PCC" name="PC COLOR" required>
+            <option value="">Which Color ?</option>
+            <option value="Black & White">Black & White</option>
+            <option value="Black & Grey">Black & Grey</option>
+            <option value="Black & Orange">Black & Orange</option>
+            <option value="Red & White">Red & White</option>
+            <option value="Black">Black</option>
+            <option value="White">White</option>
+        </select>
+        <br>
+        <br>
+        <!-- Display the price -->
+        <i><p id="price">Price: 0 $ </p></i>
+        <button id="send" type="submit">Send</button> 
+
+    </form>
+    <hr>
+</body>
+
+</html>
