@@ -20,16 +20,16 @@ I'm a passionate **Software & Application Developer** who enjoys building modern
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zouatinezakaria&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=DE-TeAcH&show_icons=true&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=zouatinezakaria&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=DE-TeAcH&theme=dark" />
 
 ---
 
 ### 📫 Contact
 
 - 🌍 Portfolio: https://zouatinezakaria.vercel.app/
-- 💼 GitHub: https://github.com/zouatinezakaria
+- 💼 GitHub: https://github.com/DE-TeAcH
 
 ---
 
