@@ -20,9 +20,9 @@ I'm a passionate **Software & Application Developer** who enjoys building modern
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DE-TeAcH&show_icons=true&theme=dark" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DE-TeAcH&show_icons=true&theme=dark)
 
-<img src="https://streak-stats.demolab.com?user=DE-TeAcH&theme=dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=DE-TeAcH&theme=dark)
 
 ---
 
