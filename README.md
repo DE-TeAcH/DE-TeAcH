@@ -18,12 +18,6 @@ I'm a passionate **Software & Application Developer** who enjoys building modern
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DE-TeAcH&show_icons=true&theme=dark)
-
----
-
 ### 📫 Contact
 
 - 🌍 Portfolio: https://zouatinezakaria.vercel.app/
