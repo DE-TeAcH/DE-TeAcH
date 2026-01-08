@@ -12,12 +12,6 @@ I'm a passionate **Software & Application Developer** who enjoys building modern
 
 ---
 
-### 💻 Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,reactnative" />
-
----
-
 ### 🛠 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
