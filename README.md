@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Zouatine Zakaria, Known by De Zakaria
 
-<!--
-**DE-TeAcH/DE-TeAcH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software & Application Developer** who enjoys building modern, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://zouatinezakaria.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages & Technologies
+
+<img src="https://skillicons.dev/icons?i=c,html,css,java,python,js,ts,react,nextjs,nodejs,php,mysql" />
+
+---
+
+### 💻 Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,reactnative" />
+
+---
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zouatinezakaria&show_icons=true&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?user=zouatinezakaria&theme=dark" />
+
+---
+
+### 📫 Contact
+
+- 🌍 Portfolio: https://zouatinezakaria.vercel.app/
+- 💼 GitHub: https://github.com/zouatinezakaria
+
+---
+
+⭐️ *Feel free to check out my repositories and projects!*
+
